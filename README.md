@@ -1,5 +1,6 @@
 # Work... but Fun
 A remote-workplace platform that makes going to work, from wherever you are, fun and engaging! With a TLDR; page and streamlined onboarding system, keeping yourself up to date has never been easier!
+
 ![hackp acdomain](https://user-images.githubusercontent.com/123273398/213926859-270a5145-34b2-40a3-a3f9-5e3ab2d24420.png)
 
 ## Inspiration
