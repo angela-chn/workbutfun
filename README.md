@@ -5,9 +5,9 @@ A remote-workplace platform that makes going to work, from wherever you are, fun
 
 ## Inspiration
 
-As a current intern at a big tech company who has been working from home for a couple years now, I gained inspiration from certain hackathon streams to improve the wfh/hybrid experience, as well as the onboarding experience.
+As a current intern at a big tech company who has been working from home for a couple years now, I gained inspiration from certain hackathon streams to improve the wfh/hybrid experience, as well as the onboarding experience. Integrates with common software/tools such as GSuite (Google Calendar & Gmail), Slack, Zoom, etc to ease portability.
 
-Integrates with common software/tools such as GSuite (Google Calendar & Gmail), Slack, Zoom, etc to ease portability.
+I'm a backend enjoyer so I decided to challenge (torture) myself this weekend by trying something new and predominantly frontend. I was inspired by the hackathon streams and decided to try Velo by Wix to achieve this, which is a really cool tool. Thanks ConUHacks!
 
 ## Components
 
